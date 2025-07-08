@@ -1,0 +1,22 @@
+# Ambiente virtual
+.venv/
+
+# PyCharm
+.idea/
+
+# Bytecode do Python
+__pycache__/
+*.pyc
+
+# Flask
+instance/
+
+# Logs, cobertura e caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Builds e distribuição
+dist/
+build/
+*.egg-info/
